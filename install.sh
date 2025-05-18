@@ -22,7 +22,7 @@ elif [ -f /etc/redhat-release ]; then
 fi
 
 # GitHub 仓库信息
-GITHUB_RAW_URL="https://raw.githubusercontent.com/你的用户名/你的仓库名/main"
+GITHUB_RAW_URL="https://raw.githubusercontent.com/animovigamlxh/cert/main"
 SCRIPT_NAME="install_cert.sh"
 
 # 下载主脚本
